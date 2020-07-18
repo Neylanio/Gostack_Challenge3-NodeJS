@@ -2,7 +2,7 @@
   Challenge 06: Database and upload files with NodeJS
 </h3>
 
-## :rocket: Sobre o desafio
+## :rocket: About the challenge
 
 This challenge will be applied to the Transaction Management API.
 
